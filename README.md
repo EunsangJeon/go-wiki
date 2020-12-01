@@ -1,2 +1,2 @@
 # go-wiki
-https://golang.org/doc/articles/wiki/
+Simple web service.
